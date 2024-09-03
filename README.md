@@ -1,1 +1,1 @@
-# athletic_sales_analysis
+utlized Panadas documantation to learn about [frequncy Strings](https://pandas.pydata.org/docs/user_guide/timeseries.html#timeseries-offsets) for the resample function.
